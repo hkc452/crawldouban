@@ -1,0 +1,14 @@
+{
+  "name": "crawldouban",
+  "version": "1.0.0",
+  "description": "crawl douban top250 movie list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hkc",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  }
+}
